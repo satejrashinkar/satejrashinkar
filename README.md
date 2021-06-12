@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 <div>
 • Third year undergraduate student pursuing Electronics and Telecommunication Engineering from
