@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**satejrashinkar/satejrashinkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+• Third year undergraduate student pursuing Electronics and Telecommunication Engineering from
+Savitribai Phule Pune University along with Honors in Artificial Intelligence & Machine Learning.
 
-Here are some ideas to get you started:
+• Interests include learning new technical skills to excel in field of computer science to tackle real life
+problems using technology.
+  
+![Satej's github stats](https://github-readme-stats.vercel.app/api?username=satejrashinkar&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=satejrashinkar&theme=dracula&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+ <h2 align="center">Languages Known</h2>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+ </h2>
+ <hr>
+ <h2 align="center">Technologies I have worked with</h2>
+ 
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ 
+</div>
