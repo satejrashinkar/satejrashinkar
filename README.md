@@ -4,8 +4,7 @@
 
  #### I am a third year undergraduate student pursuing Electronics and Telecommunication Engineering from Savitribai Phule Pune University along with Honors in Artificial Intelligence & Machine Learning.
    
- #### Interests include learning new technical skills to excel in field of computer science to tackle real life
- problems using technology.
+ #### Interests include learning new technical skills to excel in field of computer science to tackle real life problems using technology.
 
  ![Satej's github stats](https://github-readme-stats.vercel.app/api?username=satejrashinkar&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
  ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=satejrashinkar&theme=dracula&layout=compact)
