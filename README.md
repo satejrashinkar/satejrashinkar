@@ -31,5 +31,9 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
-</div>
+<hr>
+<div align="center">
+#### 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/satejrashinkar/)
+#### Reach out to me [here!](mailto:satej.rashinkar@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+</div> 
 
