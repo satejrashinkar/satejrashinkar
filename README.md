@@ -33,7 +33,7 @@
 </div>
 <hr>
 
-####  Let's connect on [LinkedIn!](https://www.linkedin.com/in/satejrashinkar/)
+####  Let's connect on [LinkedIn](https://www.linkedin.com/in/satejrashinkar/)!
 
 
 </div>
