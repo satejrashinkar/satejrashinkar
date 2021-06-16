@@ -33,8 +33,9 @@
 </div>
 <hr>
 
+<div align="center">
 ####  Let's connect on [LinkedIn](https://www.linkedin.com/in/satejrashinkar/)!
-
+</div>
 
 </div>
 
