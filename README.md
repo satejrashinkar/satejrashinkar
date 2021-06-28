@@ -42,7 +42,7 @@
 <hr>
 
 
- ####  Let's connect on <a href="https://www.linkedin.com/in/satejrashinkar/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ ####  Let's connect on <a href="https://www.linkedin.com/in/satejrashinkar/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  ####  Learn more [Website](https://satejrashinkar.github.io)
  
 </div>
