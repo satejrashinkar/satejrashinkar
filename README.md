@@ -1,5 +1,4 @@
 <h1 align="center">Hello there</h1>
-
 <div>
 
  #### I am a third year undergraduate student pursuing Electronics and Telecommunication Engineering from Savitribai Phule Pune University along with Honors in Artificial Intelligence & Machine Learning.
