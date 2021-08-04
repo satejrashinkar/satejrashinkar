@@ -1,7 +1,7 @@
 <h1 align="center">Hello there</h1>
 <div>
 
- #### I am a third year undergraduate student pursuing Electronics and Telecommunication Engineering from Savitribai Phule Pune University along with Honors in Artificial Intelligence & Machine Learning.
+ #### I am an undergraduate student pursuing Electronics and Telecommunication Engineering from Savitribai Phule Pune University along with Honors in Artificial Intelligence & Machine Learning.
    
  #### Interests include learning new technical skills to excel in field of computer science to tackle real life problems using technology.
 
